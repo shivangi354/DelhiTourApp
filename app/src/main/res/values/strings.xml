@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DelhiTour</string>
+    <string name="attraction">Attractions</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="shopping">Shopping</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="place">PLACE</string>
+    <string name="location">LOCATION</string>
+    <string name="attraction1">India Gate</string>
+    <string name="attraction2">Lotus Temple</string>
+    <string name="attraction3">Humayuns Tomb</string>
+    <string name="attraction4">Red Fort</string>
+    <string name="attraction5">Qutub Minar</string>
+    <string name="loc1">Connaught Place</string>
+    <string name="loc2">Kalkaji</string>
+    <string name="loc3">Nizzamudin</string>
+    <string name="loc4">Chandni Chowk</string>
+    <string name="loc5">Mehrauli</string>
+    <string name="loc6">Khan Market</string>
+    <string name="loc7">Pandara Road</string>
+    <string name="loc8">Chattarpur</string>
+    <string name="loc9">Rajouri Garden</string>
+    <string name="loc10">Noida</string>
+    <string name="rest1">Perch Wine and coffee Bar</string>
+    <string name="rest2">Moti Mahal Deluxe</string>
+    <string name="rest3">Insta pizza</string>
+    <string name="ent1">Paintball - ShotOut Zone</string>
+    <string name="ent2">Movie - PVR Plaza</string>
+    <string name="ent3">Mystery Rooms</string>
+    <string name="ent4">Comedy Canvas Club</string>
+    <string name="shop1">The Great India Place Mall</string>
+    <string name="shop2">Janpath Market</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_height">88dp</dimen>
+    <dimen name="padding1">40dp</dimen>
+    <dimen name="margin">100dp</dimen>
+    <dimen name="text1">50sp</dimen>
+    <dimen name="text2">20sp</dimen>
+    <dimen name="padding2">16dp</dimen>
+</resources>
